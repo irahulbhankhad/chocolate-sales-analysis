@@ -82,7 +82,7 @@ This analysis can help businesses:
 ## 📎 Project Links
 
 - 📊 **Kaggle Notebook**: https://www.kaggle.com/code/rahulbhankhad/chocolate-sales-analytics 
-- 💻 **GitHub Repository**: [Add Your GitHub Link Here]  
+- 💻 **GitHub Repository**: https://github.com/irahulbhankhad/chocolate-sales-analysis
 
 ---
 

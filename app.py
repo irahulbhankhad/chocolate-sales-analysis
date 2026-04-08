@@ -42,7 +42,7 @@ div[data-testid="stMetric"] {
 # ---------------- DATA ----------------
 @st.cache_data
 def load_data():
-    df = pd.read_csv("/Users/rahulchaudhary/Downloads/Chocolate_Sales.csv")
+    df = pd.read_csv("Chocolate_Sales.csv")
 
     df['Date'] = pd.to_datetime(df['Date'], dayfirst=True, errors='coerce')
 
